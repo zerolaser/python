@@ -18,3 +18,5 @@ print(f.read())     # read in the rest till end of file
 
 print(f.read())  # further reading returns empty sting
 #''
+
+
