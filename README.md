@@ -1,2 +1,2 @@
 # python
-This is where all my python stuff goes in
+This is where all python related stuff goes in
